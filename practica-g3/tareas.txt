@@ -1,0 +1,5 @@
+1: Dormir 
+2: Jugar 
+3: Estudiar
+4: Hacer mi maqueta para física
+5: Estudiar para la feria de ciencias
