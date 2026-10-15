@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-primario: #fd0c03;
+    --color-secundario: #e2dedd;
 }
 
 /*======================================
@@ -25,7 +25,7 @@ body {
     );
 
     min-height: 100vh;
-    color: #333;
+    color: #d65454;
 }
 
 /*======================================
@@ -46,14 +46,14 @@ body {
         var(--color-secundario)
     );
 
-    color: white;
+    color: rgb(240, 238, 238);
 }
 
 .hero-content {
     animation: aparecer 1.5s ease;
 }
 
-.hero h1 {
+.hero h1 {git@github.com:lusin20261/5pauletRAMOSROJAS.git
     font-size: clamp(3rem, 8vw, 6rem);
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -84,7 +84,7 @@ main {
   TARJETAS
 ======================================*/
 .card {
-    background: white;
+    background: rgb(255, 255, 255);
 
     margin-bottom: 30px;
     padding: 30px;
